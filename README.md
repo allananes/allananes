@@ -1,5 +1,11 @@
 ### Olá! Eu sou  o Allan Anes ✋
 
+<div> 
+  <a href="https://instagram.com/allan.anes17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoallan.anes.louzada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/allan-louzada-anes-4256bb25a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=allananes&show_icons=true&theme=dark)
 
 ## Tecnologias que uso no meu dia
